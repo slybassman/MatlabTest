@@ -1,3 +1,4 @@
+
 classdef MyClass
     properties
         Value
